@@ -2,8 +2,8 @@
 Floods in coastal areas can be extremely destructive natural hazards resulting in societal and economical damage. In this tutorial, explore how to predict building and population density to understand the potential impact from a flooding event.
 
 Authors:
-* Casper Fibaek, ESA Φ-lab, Casper.Fibaek@esa.int
-* Andreas Luyts, ESA Φ-lab, Andreas.Luyts@ext.esa.int
+* Casper Fibaek, European Space Agency Φ-lab, Casper.Fibaek@esa.int
+* Andreas Luyts, European Space Agency Φ-lab, Andreas.Luyts@ext.esa.int
 
 Originally presented at Climate Change AI Summer School 2023
 
