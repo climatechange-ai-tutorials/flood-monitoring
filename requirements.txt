@@ -1,0 +1,9 @@
+buteo==0.9.64
+codecarbon==3.2.9
+ipython==8.12.3
+ipywidgets==7.7.1
+matplotlib==3.11.1
+numpy==2.5.1
+protobuf==7.35.1
+torch==2.11.0+cu128
+tqdm==4.67.3

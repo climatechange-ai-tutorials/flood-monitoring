@@ -4,8 +4,9 @@ Floods in coastal areas can be extremely destructive natural hazards resulting i
 Authors:
 * Casper Fibaek, European Space Agency Φ-lab, Casper.Fibaek@esa.int
 * Andreas Luyts, European Space Agency Φ-lab, Andreas.Luyts@ext.esa.int
+* Nirdesh Kumar Sharma, [EarthSense Labs](https://earthsenselabs.com/), nirdesh@earthsenselabs.com
 
-Originally presented at Climate Change AI Summer School 2023
+Originally presented at Climate Change AI Summer School 2023, with Part II revised for the Summer School 2026
 
 ## Access this tutorial
 
@@ -36,20 +37,19 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Fibaek, C., & Luyts, A. (2023). Sea Water Flood Risk Assessment in Egypt using Deep Learning, Sentinel-1 & 2, and Copernicus DEM [Tutorial]. In Climate Change AI Summer School 2023. Climate Change AI. https://doi.org/10.5281/zenodo.11620621
+Fibaek, C., Luyts, A., Sharma, N. (2026). Sea Water Flood Risk Assessment in Egypt using Deep Learning, Sentinel-1 & 2, and Copernicus DEM [Tutorial]. In Climate Change AI Summer School 2026. Climate Change AI. https://doi.org/10.5281/zenodo.21830312
 
 ### BibTeX
 
 ```
-@misc{fibaek2023sea,
+@misc{fibaek2026sea,
   title={Sea Water Flood Risk Assessment in Egypt using Deep Learning, Sentinel-1 & 2, and Copernicus DEM},
-  author={Fibaek, Casper and Luyts, Andreas},
-  year={2023},
+  author={Fibaek, Casper and Luyts, Andreas and Sharma, Nirdesh},
+  year={2026},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/flood-monitoring}},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.11620621},
-  booktitle={Climate Change AI Summer School 2023}
+  doi={https://doi.org/10.5281/zenodo.21830312},
+  booktitle={Climate Change AI Summer School 2026}
 }
 ```
-
