@@ -6,7 +6,7 @@ Authors:
 * Andreas Luyts, European Space Agency Φ-lab, Andreas.Luyts@ext.esa.int
 * Nirdesh Kumar Sharma, [EarthSense Labs](https://earthsenselabs.com/), nirdesh@earthsenselabs.com
 
-Originally presented at Climate Change AI Summer School 2023, with Part II revised for the Summer School 2026
+Originally presented at Climate Change AI Summer School 2023, revised for the Summer School 2026
 
 ## Access this tutorial
 
@@ -37,7 +37,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Fibaek, C., Luyts, A., Sharma, N. (2026). Sea Water Flood Risk Assessment in Egypt using Deep Learning, Sentinel-1 & 2, and Copernicus DEM [Tutorial]. In Climate Change AI Summer School 2026. Climate Change AI. https://doi.org/10.5281/zenodo.21830312
+Fibaek, C., Luyts, A., Sharma, N. (2026). Sea Water Flood Risk Assessment in Egypt using Deep Learning, Sentinel-1 & 2, and Copernicus DEM [Tutorial]. In Climate Change AI Summer School 2026. Climate Change AI. https://doi.org/10.5281/zenodo.21982751
 
 ### BibTeX
 
@@ -49,7 +49,7 @@ Fibaek, C., Luyts, A., Sharma, N. (2026). Sea Water Flood Risk Assessment in Egy
   howpublished={\url{https://github.com/climatechange-ai-tutorials/flood-monitoring}},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={https://doi.org/10.5281/zenodo.21830312},
+  doi={https://doi.org/10.5281/zenodo.21982751},
   booktitle={Climate Change AI Summer School 2026}
 }
 ```
